@@ -1,6 +1,6 @@
 ---
 
-- hosts: pull_mode_hosts
+- hosts: localhost
   remote_user: root
 
   vars:
